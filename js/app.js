@@ -1,6 +1,6 @@
 $(function () {
   // Fill in your firebase project's information below:
-  const config = {
+  const firebaseConfig = {
     apiKey: 'your_api_key',
     authDomain: 'your_project_id.firebaseapp.com',
     databaseURL: 'https://your_database_name.firebaseio.com',
